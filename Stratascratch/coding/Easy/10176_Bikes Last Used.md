@@ -8,7 +8,7 @@ Title : Bikes Last Used
 ```
 
 - My solution
-```
+```sql
 select
     bike_number,
     max(end_time) as last_used
