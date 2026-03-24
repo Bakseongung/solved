@@ -9,7 +9,7 @@ Title : Average Salaries
 
 - My solution
 ```
-Solved
+perfectly solved
 ```
 ```sql
 select
