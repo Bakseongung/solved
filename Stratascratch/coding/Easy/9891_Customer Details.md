@@ -26,3 +26,4 @@ order by first_name, order_details;
 ```
 There don't seem to be any issues.
 ```
+
