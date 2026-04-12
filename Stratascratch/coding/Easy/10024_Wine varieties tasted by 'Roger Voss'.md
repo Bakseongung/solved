@@ -8,7 +8,7 @@ Title : Wine varieties tasted by 'Roger Voss'
 ```
 
 - My solution
-```
+```sql
 select distinct variety
 from winemag_p2
 where taster_name='Roger Voss'
